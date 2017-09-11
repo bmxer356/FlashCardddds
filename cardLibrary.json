@@ -1,0 +1,22 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "What year did we land on the moon?",
+    "back": "1969"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "We landed on the moon in 1969",
+    "cloze": "1969"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Lebron James is the best player in what sport?",
+    "back": "NBA"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Lebron James is the best player in the nba",
+    "cloze": "in the NBA"
+  },
+  
